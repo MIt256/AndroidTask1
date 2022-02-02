@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">TaskOne</string>
-    <string name="string">Hello world</string>
+    <string name="app_name" translatable="false">TaskOne</string>
+    <string name="string">Hello world!</string>
 </resources>
